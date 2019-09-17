@@ -1,5 +1,5 @@
-# comp110-worksheet-A
-Base repository for COMP110, assignment 1, worksheet A
+# comp110-worksheet-1
+Base repository for COMP110, assignment 1, worksheet 1
 
 ## YouTube playlist
 Paste a link to your YouTube playlist here.
